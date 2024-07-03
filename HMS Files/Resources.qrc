@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Login2.png</file>
+        <file>istockphoto-1147656668-612x612.jpg</file>
+        <file>360_F_579484323_waaeF98BnKROG1Ez3iMVbkavZrPToMut.jpg</file>
+        <file>admin.jpg</file>
+        <file>doctor.jpg</file>
+        <file>nurse.jpg</file>
+        <file>user.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+Moaz 1234 admin 0
+Koussay 1234 admin 1
+Yosuf 1234 admin 2
+ahmed 1234 doctor 4
+doctor 1234 doctor 4
+nurse 1234 nurse 5
